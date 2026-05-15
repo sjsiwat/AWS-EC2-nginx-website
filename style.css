@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    animation: fadeIn 1s;
+    animation: fadeIn 3s;
     background-color: #638c9d;
     padding: 40px;
     border-radius: 20px;
